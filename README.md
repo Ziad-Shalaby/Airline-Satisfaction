@@ -1,7 +1,5 @@
 # Airline Satisfaction
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 ## Project Overview
 
 This project analyzes airline passenger satisfaction using machine learning models to predict satisfaction levels based on various features. The goal is to identify key factors influencing passenger satisfaction and provide insights for improving airline services.
